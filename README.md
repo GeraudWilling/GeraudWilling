@@ -20,5 +20,6 @@ I'm [Géraud Willing BONOU-SELEGBE](http://geraudwilling.com), a passionate Full
 
 ## Contact
 - [Géraud Willing B-S.](http://geraudwilling.com)
+- [@geraudwilling](https://www.linkedin.com/in/geraudwilling) on Linkedin
 - [geraudwillingbonou](https://www.malt.fr/profile/geraudwillingbonou) on Malt
 - [geraud-willing-b-s](https://stackoverflow.com/users/5456024/g%C3%A9raud-willing-b-s) on Stackoverflow
